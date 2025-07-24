@@ -1,0 +1,20 @@
+p {
+    background-color: rgb(220, 20, 60);
+}
+
+#test {
+    background-color: #00CED1;
+}
+
+.text{
+    background-color: green;
+    font-size: 34px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 900;
+    width: 50%;
+    height: 200px;
+    border-color: deeppink;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 20px
+}
