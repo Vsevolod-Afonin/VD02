@@ -1,0 +1,30 @@
+.card{
+    width: 400px;
+    height: 550px;
+    background-color: YellowGreen;
+    border-radius: 60px;
+    transition: 1s;
+}
+
+.card:hover{
+    background-color: #00CED1;
+    width: 450px;
+    height: 600px;
+    transition: 1s;
+}
+
+img{
+    height: 100%;
+    border-radius: 20px
+}
+
+.photo{
+    height: 40%;
+    padding: 30px;
+}
+
+.info{
+    padding: 30px;
+    height: 40%;
+}
+
